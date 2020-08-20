@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adrienneemaaeibiee.github.io/sitemap.xml.gz
